@@ -3,7 +3,7 @@
 # Functional requirements
 
 - [X] The user should be able to create a new transaction
-- [ ] The user should be able to get their account summary
+- [X] The user should be able to get their account summary
 - [X] The user should be able to list all previous transactions
 - [X] The user should be able to see a unic transaction
 
